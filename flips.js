@@ -9,4 +9,5 @@ if(num == 1){
     console.log({[array] : 1})
 }
 else{
-    console.log(coin.coun
+    console.log(coin.countFlips(array));
+}
