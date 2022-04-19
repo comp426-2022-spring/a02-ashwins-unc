@@ -8,6 +8,6 @@ if(arg["call"] == "heads" || arg["call"] == "tails"){
 //else if(arg["call"] == null){
 else{    
     console.log("Error: no input.")
-    console.log("Usage: node guess-flip --call=[head
+    console.log("Usage: node guess-flip --call=[heads|tails]")
     process.exit();
 }
