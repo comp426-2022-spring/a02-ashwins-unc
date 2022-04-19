@@ -8,3 +8,6 @@ console.log(array)
 if(num == 1){
     console.log({[array] : 1})
 }
+else{
+    console.log(coin.countFlips(array));
+}
