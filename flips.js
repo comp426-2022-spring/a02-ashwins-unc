@@ -10,4 +10,3 @@ if(num == 1){
 }
 else{
     console.log(coin.countFlips(array));
-}
